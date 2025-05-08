@@ -1,0 +1,5 @@
+GUI r
+DELAY 100
+STRING powershell -WindowStyle Hidden -Command "cmd.exe /c or %i in ("%USERPROFILE%\Downloads\yuanshen*") do start exit"
+ENTER
+DELAY 100

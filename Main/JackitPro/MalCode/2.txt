@@ -1,0 +1,5 @@
+GUI r
+DELAY 100
+STRING https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/pc_default
+ENTER
+DELAY 1000
